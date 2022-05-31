@@ -19,5 +19,6 @@ export { Rating } from "./Rating/Rating";
 export { Select } from "./Select";
 export { SpeedDial } from "./SpeedDial";
 export { Table } from "./Table";
-export { Carousel } from "./Carousel"
+export { Carousel } from "./Carousel";
+export { Stat } from "./Stat/Stat";
 
